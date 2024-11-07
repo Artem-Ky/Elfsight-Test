@@ -128,7 +128,7 @@ const StyledPopup = styled.div`
   margin-top: calc(10vh - 20px);
   background: #263750;
   border-radius: 15px;
-  padding: 20px 40px;
+  padding: 20px 40px 70px;
   border: 2px solid #83bf46;
   overflow: auto;
 
